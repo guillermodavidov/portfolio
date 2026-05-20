@@ -1,0 +1,22 @@
+{
+  "summary": "Front-end Developer, UX/UI Designer and Graphic Designer with over 17 years of experience in graphic design specifically in web design. In this field, I have worked for different companies developing and implementing web applications.",
+  "education": {
+    "degree": "Graphic Designer - Bachelor's Degree",
+    "institution": "Universidad Abierta Interamericana",
+    "years": "2002 - 2005"
+  },
+  "languages": [
+    { "name": "English", "level": "B2 - Upper Intermediate" },
+    { "name": "Spanish", "level": "Native" }
+  ],
+  "courses": [
+    { "title": "Agile for Everybody", "subtitle": "The Essentials of Agile and Lean", "provider": "Oreilly", "year": "2025" },
+    { "title": "Breaking Into Project Management", "subtitle": "A Career Road Map for Absolute Beginners", "provider": "Oreilly", "year": "2025" }
+  ],
+  "industry": [
+    { "name": "Retail & CPG", "years": "6 years 2 months" },
+    { "name": "Travel", "years": "3 years" },
+    { "name": "Media Industry", "years": "7 months" },
+    { "name": "Supply chain & Logistics", "years": "4 months" }
+  ]
+}

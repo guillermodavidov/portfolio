@@ -1,0 +1,139 @@
+{
+  "languages": [
+{
+      "name": "JavaScript",
+      "years": 10,
+      "x": 400,
+      "y": 113,
+      "size": 147
+    },
+    {
+      "name": "HTML",
+      "years": 15,
+      "x": 152,
+      "y": 7,
+      "size": 147
+    },
+    {
+      "name": "CSS",
+      "years": 15,
+      "x": 0,
+      "y": 113,
+      "size": 147
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "React",
+      "years": 7,
+      "x": 560,
+      "y": 135,
+      "size": 113
+    },
+    {
+      "name": "Node.js",
+      "years": 4,
+      "x": 147,
+      "y": 181,
+      "size": 113
+    },
+    {
+      "name": "jQuery",
+      "years": 6,
+      "x": 703,
+      "y": 248,
+      "size": 92
+    },
+    {
+      "name": "Bootstrap",
+      "years": 6,
+      "x": 680,
+      "y": 146,
+      "size": 92
+    },
+    {
+      "name": "GraphQL",
+      "years": 6,
+      "x": 588,
+      "y": 0,
+      "size": 92
+    },
+    {
+      "name": "SCSS",
+      "years": 6,
+      "x": 615,
+      "y": 312,
+      "size": 92
+    },
+    {
+      "name": "Knockout.js",
+      "years": 3,
+      "x": 530,
+      "y": 248,
+      "size": 84
+    },
+{
+      "name": "TypeScript",
+      "years": 3,
+      "x": 325,
+      "y": 175,
+      "size": 70
+    },
+{
+      "name": "RTL",
+      "years": 6,
+      "x": 693,
+      "y": 45,
+      "size": 92
+    },
+    {
+      "name": "Jira",
+      "years": 11,
+      "x": 315,
+      "y": 10,
+      "size": 128
+    },
+{
+      "name": "Postman",
+      "years": 3,
+      "x": 253,
+      "y": 150,
+      "size": 70
+    },
+    {
+      "name": "SauceLabs",
+      "years": 3,
+      "x": 530,
+      "y": 72,
+      "size": 70
+    },
+{
+      "name": "GitHub",
+      "years": 6,
+      "x": 798,
+      "y": 284,
+      "size": 92
+    },
+    {
+      "name": "Axe DevTools",
+      "years": 6,
+      "x": 92,
+      "y": 294,
+      "size": 92
+    },
+{
+      "name": "Agile/Scrum",
+      "years": 15,
+      "x": 242,
+      "y": 251,
+      "size": 147
+    },
+    {
+      "name": "UI/UX Design",
+      "years": 15,
+      "x": 780,
+      "y": 113,
+      "size": 147
+    }
+  ]
+}
