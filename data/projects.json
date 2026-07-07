@@ -11,13 +11,10 @@
     "role": "Developer",
     "overview": "Worked on multiple web application projects for global clients across technology, retail, finance, and media. Responsibilities included UI maintenance, redesigns, new feature development, and reusable component creation across enterprise platforms, e-commerce solutions, internal business tools, and innovation initiatives.",
     "description": [
-      "Developed and maintained web UIs with HTML, CSS, and JavaScript frameworks",
-      "Responsive and pixel-perfect implementation from mockups and PSDs",
-      "Built and extended reusable UI components and pattern libraries",
-      "Cross-functional collaboration to deliver features and improve existing functionality",
-      "Agile ceremonies, estimations, and stakeholder demos",
-      "Accessibility and performance optimization",
-      "Design-to-code workflow improvements"
+      "Developed and maintained web application UIs for global clients across technology, retail, finance, and media sectors",
+      "Implemented responsive layouts and pixel-perfect designs from mockups and PSDs, ensuring visual consistency",
+      "Built reusable UI components and pattern libraries, improving development efficiency across projects",
+      "Collaborated with cross-functional teams on enterprise platforms, e-commerce sites, and internal business tools"
     ],
     "techStack": [
       "JavaScript",
@@ -44,13 +41,9 @@
     "role": "Developer",
     "overview": "US energy infrastructure company operating across natural gas pipelines, liquid pipelines, and energy segments. I owned end-to-end UI development from mockups to implementation, proposed designs for new features, and collaborated directly with the client on application look-and-feel and navigation flow.",
     "description": [
-      "Mockup creation",
-      "Responsive layouts from designs",
-      "Extend existing functionality",
-      "Estimation and stakeholder demos",
-      "Agile Scrum delivery",
-      "UI design proposals",
-      "Navigation flow definition"
+      "Led entire UI development from mockups to implementation, delivering complete solution for energy infrastructure company",
+      "Created design proposals and discussed functionality with client, ensuring alignment with business requirements",
+      "Built responsive, accessible internal application for energy infrastructure company, supporting internal operations"
     ],
     "techStack": [
       "JavaScript",
@@ -80,14 +73,9 @@
     "role": "Developer",
     "overview": "US digital content and entertainment portfolio spanning TV, film, digital media, live events, merchandising, and studio production. As part of the UI team, I focused on theming and visual updates aligned with client branding, bug fixing, responsive behavior, performance improvements, and research for potential new site features.",
     "description": [
-      "Bug fixing",
-      "Responsive layouts from designs",
-      "Extend existing functionality",
-      "Estimation and stakeholder demos",
-      "Agile Scrum delivery",
-      "Theming and UI look-and-feel updates",
-      "Performance improvements",
-      "Feature research"
+      "Updated and themed UI for portfolio of multi-platform entertainment brands, ensuring brand consistency across digital properties",
+      "Performed bug fixing, responsive adaptations, and performance improvements, enhancing user experience",
+      "Researched and implemented new features for digital content platform, staying current with web technologies"
     ],
     "techStack": [
       "JavaScript",
@@ -113,16 +101,12 @@
     "role": "Developer",
     "overview": "US airline operating flights to over 100 destinations across the US, Alaska, Hawaii, Canada, Costa Rica, and Mexico. I worked on front-end development: building views from mockups, improving accessibility and responsiveness, fixing UI issues, and contributing to a site-wide WCAG 2.0 compliance effort. I also supported back-end bug fixing on MVC pages.",
     "description": [
-      "Bug fixing",
-      "Form adaptations",
-      "Error message customization",
-      "Tab order optimization",
-      "Responsive layouts from designs",
-      "Extend existing functionality",
-      "Estimation and stakeholder demos",
-      "Agile Scrum delivery",
-      "WCAG 2.0 compliance",
-      "MVC page bug fixing"
+      "Built new front-end views for US airline's booking platform, serving travelers across multiple destinations",
+      "Updated entire site to meet WCAG 2.0 accessibility standards, ensuring compliance for all user interactions",
+      "Developed responsive, accessible interfaces for flight booking, account management, and travel planning",
+      "Fixed bugs in MVC pages (back-end support), improving overall system reliability",
+      "Customized forms, error messages, and tab order for accessibility, enhancing usability for users with disabilities",
+      "Used Sauce Labs for cross-browser testing, ensuring consistent experience across browsers and devices"
     ],
     "techStack": [
       "React.js",
@@ -155,14 +139,12 @@
     "role": "Developer",
     "overview": "Canadian multinational athletic apparel retailer with an e-commerce site for buying, managing, and canceling orders. I worked on the front-end of the Checkout section: building views from mockups, applying accessibility and responsiveness, fixing issues, and contributing shared components to a pattern library.",
     "description": [
-      "Bug fixing",
-      "Responsive layouts from designs",
-      "Extend existing functionality",
-      "Estimation and stakeholder demos",
-      "Agile Scrum delivery",
-      "Shared component and pattern library maintenance",
-      "WCAG 2.0 compliance",
-      "A/B test variants"
+      "Developed front-end components for checkout section of leading Canadian athletic apparel e-commerce platform, supporting critical purchase flow",
+      "Built responsive, accessible interfaces from design mockups, ensuring seamless user experience across desktop and mobile",
+      "Created reusable UI components stored in shared pattern library, improving development efficiency across teams",
+      "Fixed bugs and extended existing functionality, maintaining high code quality and reliability",
+      "Participated in estimation, demos, and Agile ceremonies, contributing to transparent project delivery",
+      "Maintained WCAG 2.0 accessibility compliance for critical checkout flow, ensuring inclusive user experience"
     ],
     "techStack": [
       "React.js",
@@ -192,16 +174,13 @@
     "role": "Developer",
     "overview": "Canadian multinational athletic apparel retailer with an e-commerce site for buying, managing, and canceling orders. I worked on the front-end of the PDP section: building views from mockups, applying accessibility and responsiveness, fixing issues, and contributing shared components to a pattern library. Later I led the PDP migration to a new repo with component updates and performance improvements.",
     "description": [
-      "Bug fixing",
-      "Responsive layouts from designs",
-      "Extend existing functionality",
-      "Estimation and stakeholder demos",
-      "Agile Scrum delivery",
-      "Shared component and pattern library maintenance",
-      "WCAG 2.0 compliance",
-      "A/B test variants",
-      "Repo migration",
-      "Performance improvements"
+      "Developed front-end features for product detail page section of major Canadian athletic apparel e-commerce platform, serving thousands of daily users",
+      "Built responsive, accessible layouts from mockups, ensuring consistent user experience across all devices and screen sizes",
+      "Created and maintained 15+ shared components in pattern library, reducing development time for new features",
+      "Led migration of PDP page to new repository, improving page performance through code splitting and lazy loading",
+      "Ensured WCAG 2.0 compliance across all product detail page views using Axe DevTools",
+      "Implemented A/B test variants for conversion optimization, supporting data-driven design decisions",
+      "Collaborated in Agile/Scrum environment with crossfunctional teams, participating in estimation and stakeholder demos"
     ],
     "techStack": [
       "React.js",
