@@ -1,0 +1,21 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for HTML
+*.html linguist-language=HTML
+
+# Custom for CSS
+*.css linguist-language=CSS
+
+# Custom for JavaScript
+*.js linguist-language=JavaScript
+
+# Documentation
+*.md linguist-documentation
+
+# JSON files
+*.json linguist-language=JSON
+
+# Config files
+package.json linguist-generated
+package-lock.json linguist-generated
